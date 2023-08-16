@@ -7,3 +7,9 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
   * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
   * Belajar dasar-dasar Java, seperti sintaks dasar, tipe data, variabel, pengendalian alur program (if-else, loop), dan fungsi (metode).
   * Belajar menulis kode Java.
+
+15 Juni 2021
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, input output, dan array.
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+  * Belajar tipe data koleksi, seperti list, set, dan map.
